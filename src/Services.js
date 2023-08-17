@@ -1,7 +1,7 @@
 const Services = () => {
     return ( 
-        <div className="services">
-            <h2>services here</h2>
+        <div style={{paddingTop: 100}} className="services">
+            <h2 style={{color: 'white'}}>services here</h2>
         </div>
      );
 }

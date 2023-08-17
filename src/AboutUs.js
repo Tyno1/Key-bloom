@@ -1,7 +1,7 @@
 const AboutUs = () => {
     return ( 
-        <div className="about-us">
-            <h2>About Us</h2>
+        <div style={{paddingTop: 100}} className="about-us">
+            <h2 style={{color: 'white'}}>About Us</h2>
         </div>
      );
 }
