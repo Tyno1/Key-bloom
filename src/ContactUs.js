@@ -1,7 +1,7 @@
 const ContactUs = () => {
     return ( 
-        <div className="contact-us">
-            <h2>
+        <div style={{paddingTop: 100}} className="contact-us">
+            <h2 style={{color: 'white'}}>
                 Contact Us Now
             </h2>
         </div>
